@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.classes/commit/2554beb49ae2844d6b678cbe212c3e57807c3623",
       "git:hexsha": "2554beb49ae2844d6b678cbe212c3e57807c3623",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.classes/commit/26c15bb89053083e399cdd9c0607ab5e3d860f4b",
